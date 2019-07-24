@@ -1,0 +1,11 @@
+C:\Users\josep\source\repos\Lab8Classmates\Lab8Classmates\obj\Debug\netcoreapp2.1\Lab8Classmates.csprojAssemblyReference.cache
+C:\Users\josep\source\repos\Lab8Classmates\Lab8Classmates\obj\Debug\netcoreapp2.1\Lab8Classmates.csproj.CoreCompileInputs.cache
+C:\Users\josep\source\repos\Lab8Classmates\Lab8Classmates\obj\Debug\netcoreapp2.1\Lab8Classmates.AssemblyInfoInputs.cache
+C:\Users\josep\source\repos\Lab8Classmates\Lab8Classmates\obj\Debug\netcoreapp2.1\Lab8Classmates.AssemblyInfo.cs
+C:\Users\josep\source\repos\Lab8Classmates\Lab8Classmates\bin\Debug\netcoreapp2.1\Lab8Classmates.deps.json
+C:\Users\josep\source\repos\Lab8Classmates\Lab8Classmates\bin\Debug\netcoreapp2.1\Lab8Classmates.runtimeconfig.json
+C:\Users\josep\source\repos\Lab8Classmates\Lab8Classmates\bin\Debug\netcoreapp2.1\Lab8Classmates.runtimeconfig.dev.json
+C:\Users\josep\source\repos\Lab8Classmates\Lab8Classmates\bin\Debug\netcoreapp2.1\Lab8Classmates.dll
+C:\Users\josep\source\repos\Lab8Classmates\Lab8Classmates\bin\Debug\netcoreapp2.1\Lab8Classmates.pdb
+C:\Users\josep\source\repos\Lab8Classmates\Lab8Classmates\obj\Debug\netcoreapp2.1\Lab8Classmates.dll
+C:\Users\josep\source\repos\Lab8Classmates\Lab8Classmates\obj\Debug\netcoreapp2.1\Lab8Classmates.pdb
